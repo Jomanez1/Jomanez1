@@ -14,5 +14,13 @@
       "package_name": "jomanez1.github.io.mitiempo.twa",
       "sha256_cert_fingerprints": ["51:40:DD:C1:06:28:2B:93:2B:CC:EE:31:7E:F0:3E:E8:A6:F8:17:16:19:EC:84:C5:A9:C7:A7:49:8A:09:AE:72"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jomanez1.github.io.gasomap.twa",
+      "sha256_cert_fingerprints": [""]
+    }
   }
 ]
